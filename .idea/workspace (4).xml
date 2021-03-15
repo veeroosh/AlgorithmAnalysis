@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AlgAnalysis:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4949a0a-24f2-439e-889e-387bd0ecbd83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/out/production/AlgAnalysis/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/out/production/AlgAnalysis/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AlgAnalysis_jar/AlgAnalysis.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/artifacts/AlgAnalysis_jar/AlgAnalysis.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgAnalysis/Addition (2).class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/AlgAnalysis/Addition (2).class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgAnalysis/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/AlgAnalysis/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgAnalysis/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/AlgAnalysis/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgAnalysis/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgAnalysis/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oFSPOHA8wTGU6wl1V1gB4MGiP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dsayf\YandexDisk\University\8_semestr\AlgorithmAnalisys\AlgAnalysis\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Contains">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="AlgAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contains" />
+      <module name="AlgAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addition" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Addition" />
+      <module name="AlgAnalysis" />
+      <option name="INPUT_FILE" value="input.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Contains" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4949a0a-24f2-439e-889e-387bd0ecbd83" name="Default Changelist" comment="" />
+      <created>1612880822741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612880822741</updated>
+      <workItem from="1612880824837" duration="1406000" />
+      <workItem from="1613061804979" duration="6496000" />
+      <workItem from="1613124090336" duration="9962000" />
+      <workItem from="1613208414594" duration="14179000" />
+      <workItem from="1613240725633" duration="1913000" />
+      <workItem from="1613375254302" duration="7203000" />
+      <workItem from="1613410783595" duration="73000" />
+      <workItem from="1613486738232" duration="852000" />
+      <workItem from="1613551148028" duration="3940000" />
+      <workItem from="1613816010795" duration="2683000" />
+      <workItem from="1614275800183" duration="10000" />
+      <workItem from="1614611534772" duration="333000" />
+      <workItem from="1614763360411" duration="126000" />
+      <workItem from="1614857366979" duration="32000" />
+      <workItem from="1615753502470" duration="1879000" />
+      <workItem from="1615800133143" duration="2359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
